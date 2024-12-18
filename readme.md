@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dcgvu79s29dfi5il?svg=true)](https://ci.appveyor.com/project/steklon/arraybuffer-math)
+
 # `Math (log/trig)`
 
 ## Легенда
